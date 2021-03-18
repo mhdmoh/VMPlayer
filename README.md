@@ -19,7 +19,6 @@ a simple music and video player in android java
  6. you can suffle the songs or repeat the currently playing one.
  
  ### Screenshots :
- -the is the folders view :
  <img src="https://user-images.githubusercontent.com/80918411/111689180-60e17f80-8834-11eb-9bb7-c9200f23d167.png">
  <img src="https://user-images.githubusercontent.com/80918411/111685409-8e2c2e80-8830-11eb-992d-72d60eeff77a.png" width="360" height="640"> 
  <img src="https://user-images.githubusercontent.com/80918411/111685438-971d0000-8830-11eb-8129-af8ba51d72d7.png" width="360" height="640">
@@ -28,5 +27,4 @@ a simple music and video player in android java
  <img src="https://user-images.githubusercontent.com/80918411/111685475-a1d79500-8830-11eb-9b47-8247a994f5cc.png" width="360" height="640">
  <img src="https://user-images.githubusercontent.com/80918411/111685483-a56b1c00-8830-11eb-9cce-0a3b54e3df92.png" width="360" height="640">
  <img src="https://user-images.githubusercontent.com/80918411/111685500-a8fea300-8830-11eb-9f71-b12aa422c24f.png" width="960" height="540">
- 
  <img src="https://user-images.githubusercontent.com/80918411/111685533-b2880b00-8830-11eb-9fd0-ece63de9f8a8.png" width="360" height="640">
