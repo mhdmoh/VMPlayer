@@ -35,6 +35,4 @@ a simple Video and Music player made with android java
 <img src="https://user-images.githubusercontent.com/80918411/111696287-cfc2d680-883c-11eb-94ea-c85343497c10.png" width="270" height="480">
 <img src="https://user-images.githubusercontent.com/80918411/111696298-d4878a80-883c-11eb-806c-2db0d2f984be.png" width="270" height="480">
 <img src="https://user-images.githubusercontent.com/80918411/111698653-bec79480-883f-11eb-9a57-4658e383bada.gif" width="270" height="480">
-<img src="https://user-images.githubusercontent.com/80918411/111696308-d7827b00-883c-11eb-9fd5-c22c65cba280.png" width="480" height="270">
- 
 </p>
