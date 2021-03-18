@@ -21,7 +21,8 @@ This is a simple android application for playing videos and songs.
  
  ### Screenshots :
  
- <img src="https://user-images.githubusercontent.com/80918411/111685409-8e2c2e80-8830-11eb-992d-72d60eeff77a.png" width="540" height="960"> <img src="https://user-images.githubusercontent.com/80918411/111685438-971d0000-8830-11eb-8129-af8ba51d72d7.png" width="540" height="960">
+ <img src="https://user-images.githubusercontent.com/80918411/111685409-8e2c2e80-8830-11eb-992d-72d60eeff77a.png" width="540" height="960"> 
+ <img src="https://user-images.githubusercontent.com/80918411/111685438-971d0000-8830-11eb-8129-af8ba51d72d7.png" width="540" height="960">
  <img src="https://user-images.githubusercontent.com/80918411/111685451-9be1b400-8830-11eb-939d-3421f2e12198.png" width="540" height="960">
  <img src="https://user-images.githubusercontent.com/80918411/111685462-9dab7780-8830-11eb-87fe-0471d414f6af.jpg" width="540" height="960">
  <img src="https://user-images.githubusercontent.com/80918411/111685475-a1d79500-8830-11eb-9b47-8247a994f5cc.png" width="540" height="960">
