@@ -1,5 +1,5 @@
 # VMPlayer
-a simple music and video player in android java
+a simple Video and Music player made with android java
 
 ## The available features are :
 
