@@ -20,6 +20,7 @@ a simple music and video player in android java
  
  ### Screenshots :
  <img src="https://user-images.githubusercontent.com/80918411/111689180-60e17f80-8834-11eb-9bb7-c9200f23d167.png">
+ <img src="https://user-images.githubusercontent.com/80918411/111690109-799e6500-8835-11eb-83b3-6e32399ae365.png" width="360" height="640"> 
  <img src="https://user-images.githubusercontent.com/80918411/111685409-8e2c2e80-8830-11eb-992d-72d60eeff77a.png" width="360" height="640"> 
  <img src="https://user-images.githubusercontent.com/80918411/111685438-971d0000-8830-11eb-8129-af8ba51d72d7.png" width="360" height="640">
  <img src="https://user-images.githubusercontent.com/80918411/111685451-9be1b400-8830-11eb-939d-3421f2e12198.png" width="360" height="640">
