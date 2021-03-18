@@ -26,5 +26,5 @@ a simple music and video player in android java
  <img src="https://user-images.githubusercontent.com/80918411/111685462-9dab7780-8830-11eb-87fe-0471d414f6af.jpg" width="360" height="640">
  <img src="https://user-images.githubusercontent.com/80918411/111685475-a1d79500-8830-11eb-9b47-8247a994f5cc.png" width="360" height="640">
  <img src="https://user-images.githubusercontent.com/80918411/111685483-a56b1c00-8830-11eb-9cce-0a3b54e3df92.png" width="360" height="640">
- <img src="https://user-images.githubusercontent.com/80918411/111685500-a8fea300-8830-11eb-9f71-b12aa422c24f.png" width="960" height="540">
+ <img src="https://user-images.githubusercontent.com/80918411/111685500-a8fea300-8830-11eb-9f71-b12aa422c24f.png" width="640" height="360">
  <img src="https://user-images.githubusercontent.com/80918411/111685533-b2880b00-8830-11eb-9fd0-ece63de9f8a8.png" width="360" height="640">
