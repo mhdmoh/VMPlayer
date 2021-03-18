@@ -18,5 +18,5 @@ a simple Video and Music player made with android java
 
  6. you can suffle the songs or repeat the currently playing one.
  
- ### Screenshots :
+ ## Screenshots :
 
