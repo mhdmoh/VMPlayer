@@ -16,7 +16,7 @@ a simple Video and Music player made with android java
 
  5. open the song in a bottom view that can be extended to fill the whole screen.
 
- 6. you can suffle the songs or repeat the currently playing one.
+ 6. you can shuffle the songs or repeat the currently playing one.
  
  ## Screenshots :
 
