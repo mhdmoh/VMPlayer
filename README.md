@@ -4,9 +4,9 @@ a simple music and video player in android java
 This is a simple android application for playing videos and songs.
 ## the available features are :
  1. you can view your videos in three ways:
-    . Files view : shows all the video files directly.
-    . Folders View : show the folders and videos in the current path.
-    . All Folders View : show all the folders that have videos in them.
+    - Files view : shows all the video files directly.
+    - Folders View : show the folders and videos in the current path.
+    - All Folders View : show all the folders that have videos in them.
 
  2. there is a list view and a grid view.
  
