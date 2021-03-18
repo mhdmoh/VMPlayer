@@ -21,8 +21,8 @@ a simple Video and Music player made with android java
  ## Screenshots :
  ### Videos :
 <p float="left">
-<img src="https://user-images.githubusercontent.com/80918411/111695206-832acb80-883b-11eb-965a-25f308c1bc6b.png" width="270" height="480">
 <img src="https://user-images.githubusercontent.com/80918411/111695218-8625bc00-883b-11eb-917f-8b7684200917.png" width="270" height="480">
+<img src="https://user-images.githubusercontent.com/80918411/111695206-832acb80-883b-11eb-965a-25f308c1bc6b.png" width="270" height="480">
 <img src="https://user-images.githubusercontent.com/80918411/111695235-89b94300-883b-11eb-98bc-6656def71ceb.png" width="270" height="480">
 <img src="https://user-images.githubusercontent.com/80918411/111695247-8b830680-883b-11eb-9115-18f7bd4d8a84.png" width="270" height="480">
 <img src="https://user-images.githubusercontent.com/80918411/111695271-9473d800-883b-11eb-8584-3d9a87fcad3a.png" width="270" height="480">
